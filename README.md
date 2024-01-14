@@ -1,6 +1,7 @@
 # Galactic Collectibles DApp
 
-<img src="./assets/header.jpeg" alt="Header Image" width="500">
+<img src="./assets/header.png" alt="Header Image">
+
 
 Welcome to Galactic Collectibles, a decentralized application (DApp) running on the Ethereum blockchain. This platform is dedicated to the creation, trading, and management of unique planets within a vibrant galactic ecosystem. This README serves as a comprehensive guide, providing insights into the application's overview, features, setup instructions, and smart contract details.
 
