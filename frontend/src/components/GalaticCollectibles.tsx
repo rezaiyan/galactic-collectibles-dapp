@@ -22,7 +22,7 @@ interface Planet {
 
 enum Status { ForSale = "For sale", New = "New" }
 
-const GalacticCollectiblesArtifact = require('../contracts/GalacticCollectibles.sol/GalacticCollectibles.json');
+const GalacticCollectiblesArtifact = require('../artifacts/contracts/GalacticCollectibles.sol/GalacticCollectibles.json');
 
 const StyledGreetingDiv = styled.div`
   display: grid;
