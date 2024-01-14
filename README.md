@@ -44,7 +44,7 @@ Follow these steps to set up and run the Galactic Collectibles DApp on your loca
 
    Terminal1:
    ```bash
-   cd app/
+   cd frontend/
    npm install
    npm start
    ```
